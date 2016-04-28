@@ -20,4 +20,4 @@ AUTO_DISCOVER_STATIC_FILES = True
 ADD_JS_FILES = []
 
 # A list of scss files to be included in the compressed set of files
-ADD_SCSS_FILES = ['dashboard/identity/myplugin/myplugin.scss']
+#ADD_SCSS_FILES = ['dashboard/identity/myplugin/myplugin.scss']
